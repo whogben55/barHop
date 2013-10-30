@@ -1,0 +1,48 @@
+   <!DOCTYPE html>
+<html>
+<head>
+    <title>barHop</title>
+    <link type="text/css" rel="stylesheet" href="main.css" />
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyA3ThaL57bkd614JuJnlYvw0L6KpWV1Oh0&sensor=false"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script> 
+    <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
+    <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
+    <script type="text/javascript" src="prettyPrint.js"></script>    
+    <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+    <script src="jquery-1.10.2.js"></script>
+    <script src="application.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false&rankby=true"></script>
+    <script type="text/javascript" src="http://www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Fmjtd%7Cluubnu6zng%2Cax%3Do5-9uyxqw"></script>
+</head>
+<body>
+    <div id='header'>BARHOP</div>
+    <div id='explain'>Pick a start locationand an end location and we'll find bars in between!</div>
+    <div id = 'list'>   
+        <div id ='first' class='arr'></div>
+        <div id ='firstText'><p>Enter Your Start Location Here</p></div>
+        <div id ='endText'><p>Enter Your End Location Here</p></div>
+        <div class='arr' id='endArr'></div>
+        <div id='over'><h1>Click The Button!!</h1></div>
+        <div id='barList'></div>
+    </div>
+    
+    <div id = 'map'>
+        <div id='form'>
+            <form>
+                <input type="text" id="search" class="box"/>
+                <br/>
+                <input type="text" id="end" class = "box"/>
+                <button type="button" id="button" class="button">Bar Hop!</button>
+            </form>
+        </div>
+        <div id="googleMap">
+            
+        </div>
+        <div id='many'>
+                <div id = 'manyText'><p>Oops we found a couple places that match your search! Please click the correct location or search again</p>
+                </div>    
+            </div>
+    </div>
+
+</body>
+</html>

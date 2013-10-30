@@ -1,0 +1,23 @@
+<?xml version="1.0"?><svg width="128" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3201">
+   <stop id="stop3203" offset="0" stop-color="#ff9b9b"/>
+   <stop id="stop3205" offset="1" stop-color="#f00000"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3143">
+   <stop offset="0" id="stop3145" stop-color="#ffffff"/>
+   <stop offset="1" id="stop3147" stop-opacity="0" stop-color="#00f038"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient3143" id="radialGradient2201" gradientUnits="userSpaceOnUse" cx="15.891459" cy="15.16281" fx="15.891459" fy="15.16281" r="27.545454" gradientTransform="matrix(0.996976, 0, 0, 0.996976, 101.389, 10.1228)"/>
+  <radialGradient xlink:href="#linearGradient3201" id="radialGradient2203" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.916104, 0.942466, -0.714897, 0.694898, 114.729, 0.106093)" cx="16.02803" cy="16.847178" fx="16.02803" fy="16.847178" r="27.545454"/>
+ </defs>
+ <metadata id="metadata2165">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="g2184">
+   <path d="m89.503532,32.999989a27.503771,27.503771 0 1 1 -55.007561,0a27.503771,27.503771 0 1 1 55.007561,0z" id="path3185" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" fill-rule="nonzero" fill="url(#radialGradient2201)"/>
+   <path id="path3187" d="m89.503532,32.999989a27.503771,27.503771 0 1 1 -55.007561,0a27.503771,27.503771 0 1 1 55.007561,0z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.503788" stroke="#999999" fill-rule="nonzero" fill="#7f7f7f"/>
+   <path id="path3207" d="m66.093491,19.8125c-1.797989,1.5509 -3.144485,4.3692 -4.531189,5.8438c-2.631607,-2.177 -3.818802,-6.235899 -6.656296,-7.375c-3.440613,0.9182 -8.904205,4.1353 -4.875015,7.625c2.057709,3.042301 6.194504,5.746401 7.156311,8.9062c-1.4673,3.789398 -4.291,6.615002 -7.031311,9.375c1.340012,4.6754 7.754807,0.524799 10.343811,-1.75c2.064804,-4.633801 3.568298,0.898201 5.499405,2.890999c1.540497,6.222702 9.804092,4.4034 10.521484,-0.739399c-2.8396,-4.548901 -6.781693,-8.9244 -9.520889,-13.4016c1.085098,-4.6542 5.633408,-7.770399 6.6875,-12.2812c-1.789307,-3.122299 -5.281311,0.352301 -7.593811,0.9062z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-linejoin="round" stroke-linecap="round" fill-rule="nonzero" fill="#3f3f3f"/>
+  </g>
+ </g>
+</svg>
