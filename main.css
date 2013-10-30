@@ -213,7 +213,8 @@ button{
     display:none;
     font-size:20px;
     position: absolute;
-    top: 150px;  
+    top: 150px; 
+    line-height:30px;
 }
 #over{
     display:none;
